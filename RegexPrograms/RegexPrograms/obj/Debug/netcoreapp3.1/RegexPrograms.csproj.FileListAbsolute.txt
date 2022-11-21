@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day19\RegexPrograms\RegexPrograms\obj\Debug\netcoreapp3.1\RegexPrograms.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day19\RegexPrograms\RegexPrograms\obj\Debug\netcoreapp3.1\RegexPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day19\RegexPrograms\RegexPrograms\obj\Debug\netcoreapp3.1\RegexPrograms.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day19\RegexPrograms\RegexPrograms\obj\Debug\netcoreapp3.1\RegexPrograms.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day19\RegexPrograms\RegexPrograms\obj\Debug\netcoreapp3.1\RegexPrograms.csproj.CoreCompileInputs.cache
